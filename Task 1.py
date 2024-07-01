@@ -80,7 +80,7 @@ plt.show()
 # In[28]:
 
 
-#Implemented Code Using a guidance from the above Chat Gpt code and enhanced the code using logic.
+#Implemented Code Using  guidance from the above Chat Gpt code and enhanced the code using logic.
 
 import numpy as np
 from sklearn.datasets import make_blobs
